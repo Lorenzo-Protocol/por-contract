@@ -45,6 +45,6 @@ const deployFn: DeployFunction = async (hre) => {
 }
 
 // This is kept during an upgrade. So no upgrade tag.
-deployFn.tags = ['DeployLorenzoPoR']
+deployFn.tags = ['DeployLorenzoBTCPoR']
 
 export default deployFn
